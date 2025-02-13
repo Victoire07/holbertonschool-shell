@@ -1,2 +1,2 @@
 #!/bin/bash
-grep "root" -C NUM=3
+grep "root" -C 3
